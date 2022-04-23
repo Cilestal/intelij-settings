@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2021-02-03T15:32:53</property>
+    <property name="modified">2022-04-24T00:10:10</property>
     <property name="originalScheme">Michael copy</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -21,6 +21,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
+    <option name="DOCUMENTATION_COLOR" value="" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -40,6 +41,7 @@
     <option name="GUTTER_BACKGROUND" value="242424" />
     <option name="INDENT_GUIDE" value="804000" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -456,15 +458,6 @@
         <option name="BACKGROUND" value="2d6099" />
       </value>
     </option>
-    <option name="FLUTTER_LOG_CONFIG_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_FINER_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_FINEST_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_FINE_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_INFO_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_NONE_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_SEVERE_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_SHOUT_OUTPUT" baseAttributes="" />
-    <option name="FLUTTER_LOG_WARNING_OUTPUT" baseAttributes="" />
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -518,6 +511,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="eeeeee" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
