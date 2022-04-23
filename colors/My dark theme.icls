@@ -1,0 +1,13 @@
+<scheme name="My dark theme" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-09-06T13:48:42</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.0.0.12</property>
+    <property name="modified">2017-09-06T13:50:03</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Courier 10 Pitch" />
+</scheme>

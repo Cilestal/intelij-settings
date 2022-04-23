@@ -1,0 +1,5 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_EXCEPTIONS" value="*.com" />
+  </component>
+</application>

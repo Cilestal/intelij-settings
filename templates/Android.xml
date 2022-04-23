@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="newIntent" value="public static Intent newIntent(android.content.Context context$args$) {&#10;    Intent intent = new Intent(context, $activity$.class);&#10;    &#10;    return intent;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="activity" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
